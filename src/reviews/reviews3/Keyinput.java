@@ -1,3 +1,5 @@
+package reviews.reviews3;
+
 import java.io.*; // 標準入出力に関連するクラスを使用するためのパッケージをインポート
 
 public class Keyinput {
